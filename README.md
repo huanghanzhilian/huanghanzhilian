@@ -66,5 +66,6 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart.
 ### My Projects:
 <a style="display:inline-block; margin-right: 20px;" href="https://github.com/huanghanzhilian/c-shopping" target="_blank"> <img alt="c-shopping-next" src="./projects/c-shopping-next.svg" height="48" align="left"> </a>
 <a style="display:inline-block; margin-right: 20px;" href="https://github.com/huanghanzhilian/c-shopping-rn" target="_blank"> <img alt="c-shopping-rn" src="./projects/c-shopping-rn.svg" height="48" align="left"> </a>
+<a style="display:inline-block; margin-right: 20px;" href="https://github.com/huanghanzhilian/c-shopping-weapp" target="_blank"> <img alt="c-shopping-weapp" src="./projects/c-shopping-weapp.svg" height="48" align="left"> </a>
 <a style="display:inline-block; margin-right: 20px;" href="https://github.com/huanghanzhilian/h-blog" target="_blank"> <img alt="h-blog" src="./projects/h-blog.png" height="48" align="left"> </a>
 <a style="display:inline-block; margin-right: 20px;" href="https://github.com/huanghanzhilian/widget" target="_blank"> <img alt="h-widget" src="./projects/widget.svg" height="48" align="left"> </a>
