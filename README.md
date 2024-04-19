@@ -1,21 +1,27 @@
 ## Hey 👋, My name is Jipeng Huang!
 
 
+### About Me
 I'm an explorer of new tech, an avid learner, and a problem-solver at heart.
 <br/>
+我是一个技术的探索者，一个渴望学习的人，一个解决问题的人。
 <br/>
 
-<img align="right" height="250" width="375" alt="" src="./assets/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="./assets/coder.gif" style="margin-top: 50px" />
   
-### More About Me:
+### Contact Me
 
-- 🌍 &nbsp; I'm based in Beijing
-- 🎓 &nbsp; Full stack engineer
-- 🖥️ &nbsp; See my blog at [blog.huanghanlian.com](https://blog.huanghanlian.com/)
-- 🤝 &nbsp; I'm open to collaborating on any web or mobile project
-- 💬 &nbsp; Ask me anything [here](https://blog.huanghanlian.com/guestbook)! I am happy to help.
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
-- 📫 &nbsp; Reach me out: h1319639755@gmail.com.
+- Email: [h1319639755@gmail.com](mailto:h1319639755@gmail.com)
+- Twitter: [继小鹏](https://twitter.com/Huanghanzhilian)
+- Github: [Github](https://github.com/huanghanzhilian)
+- Blog: [继小鹏](https://blog.huanghanlian.com/)
+- 我的中文渠道:
+  - 微博：[继小鹏1](https://weibo.com/u/5653497957)
+  - 微信公众号：「继小鹏的博客」
+  - 掘金：[继小鹏](https://juejin.cn/user/2119514150414686)
+  - 知乎：[继小鹏](https://www.zhihu.com/people/huang-han-zhi-lian)
+  - 即刻：[继小鹏](https://web.okjike.com/u/BA3424F7-4D6E-4A2C-BA7E-138B616EED05)
+  - bilibili：[继小鹏](https://space.bilibili.com/191128853)
 
 <br>
 
@@ -53,10 +59,6 @@ I'm an explorer of new tech, an avid learner, and a problem-solver at heart.
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=huanghanzhilian&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huanghanzhilian&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
-  
-  <br>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huanghanzhilian&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 
